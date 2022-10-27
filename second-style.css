@@ -50,8 +50,7 @@ h1 {
     border-style: dotted;
     font: bold;
     font-size: medium;
-    /* display: flex;
-    align-items: center; */
+    cursor: pointer;
 }
 
 
