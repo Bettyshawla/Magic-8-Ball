@@ -7,6 +7,8 @@ const answer = document.querySelector("#answer");
 
 //error
 const errorMsg = document.querySelector("#error")
+
+//event listner
 addUserInput = function(){
     console.log("hello")
     question.innerText =  `The Question you asked is: ${userInput.value.toUpperCase()}`;
